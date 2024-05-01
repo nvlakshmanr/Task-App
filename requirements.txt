@@ -1,0 +1,15 @@
+pip install django
+pip install django-crm
+pip install django-helpdesk
+pip install django-celery
+pip install django-payments
+pip install django-suit
+pip install django-multiselectfield
+pip install django-import-export
+pip install django-ckeditor
+pip install django-countries
+pip install django-taggit
+pip install django-environ
+pip install django-crispy-forms 
+pip install django-filter 
+pip install djangorestframework
